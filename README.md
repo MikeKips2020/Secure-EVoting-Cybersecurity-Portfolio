@@ -160,3 +160,50 @@ MSc Computer Science (Cybersecurity)
 **Career Interests:** SOC Analyst, Cybersecurity Analyst, IT Security Technician and Secure Application Development.
 
 **GitHub:** https://github.com/MikeKips2020
+---
+
+## Security Testing Evidence and SOC Investigation
+
+The following documents and screenshots demonstrate selected
+cybersecurity controls implemented and evaluated during my
+MSc Secure Electronic Voting System project.
+
+### Technical Documentation
+
+- [System Architecture](SYSTEM_ARCHITECTURE.md)
+- [Security Testing and Evaluation Report](SECURITY_TESTING_REPORT.md)
+- [SOC Analyst Investigation Report](SOC_ANALYST_INVESTIGATION.md)
+
+### Security Evidence
+
+**1. Security Audit Dashboard — Illustrative View**
+
+![Illustrative Security Audit Dashboard](screenshots/Secure%20E-Voting%20Audit%20Dashboard.png)
+
+Illustrative dashboard image showing security monitoring and
+audit logging functionality. This is a reconstructed visual,
+not original security-testing evidence.
+
+**2. Ballot Integrity Verification — Live System Evidence**
+
+![Ballot Integrity Verification](screenshots/ballot_integrity_verification.png)
+
+Screenshot from the deployed academic prototype showing:
+
+- Six encrypted ballots.
+- Six verified ballots.
+- Ledger integrity reported as VALID.
+- Election results remaining unreleased.
+
+The screenshot records the application's reported verification
+status at the time of capture. It does not constitute an
+independent security certification.
+
+### Cybersecurity Skills Demonstrated
+
+- Security event monitoring and investigation.
+- Role-based access control.
+- Cryptographic ballot protection.
+- SHA-256 hash-chain integrity verification.
+- Security testing and incident documentation.
+- Python, Flask and PostgreSQL.
