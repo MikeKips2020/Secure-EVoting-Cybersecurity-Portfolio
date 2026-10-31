@@ -33,8 +33,6 @@ Explore the original application with its complete registration, email-verificat
 
 > **Academic prototype:** Both deployments were developed for academic demonstration and security evaluation. The employer demo uses fictional voters, candidates and election data. Neither system is intended for use in real elections.
 
-**Important:** This application is an academic research prototype and is not intended for use in real elections.
-
 ---
 
 ## 2. Project Objectives
