@@ -15,8 +15,23 @@ The application was developed as part of my MSc Computer Science studies, specia
 
 The project demonstrates how cryptographic techniques, authentication mechanisms, database security controls and audit procedures can be incorporated into an electronic voting prototype.
 
-**Live Demonstration:**  
-https://secure-election-system.onrender.com
+### Explore the Application
+
+#### Interactive Employer Demo — Recommended
+
+Test the main workflow immediately without registering or providing personal information.
+
+**[Launch the Interactive Employer Demo](https://secure-election-employer-demo.onrender.com)**
+
+Each visitor receives a temporary fictional voter account and can review eligibility, cast six fictional ballots, test duplicate-vote prevention, and inspect the election audit.
+
+#### Full Application
+
+Explore the original application with its complete registration, email-verification and authentication workflow.
+
+**[Open the Full Secure E-Voting Application](https://secure-election-system.onrender.com)**
+
+> **Academic prototype:** Both deployments were developed for academic demonstration and security evaluation. The employer demo uses fictional voters, candidates and election data. Neither system is intended for use in real elections.
 
 **Important:** This application is an academic research prototype and is not intended for use in real elections.
 
