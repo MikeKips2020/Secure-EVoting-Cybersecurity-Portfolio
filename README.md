@@ -32,7 +32,13 @@ Explore the original application with its complete registration, email-verificat
 **[Open the Full Secure E-Voting Application](https://secure-election-system.onrender.com)**
 
 > **Academic prototype:** Both deployments were developed for academic demonstration and security evaluation. The employer demo uses fictional voters, candidates and election data. Neither system is intended for use in real elections.
+### Secure E-Voting System Workflow
 
+The diagram below summarises the secure voter journey, ballot-processing controls and results workflow. The employer demonstration follows the same ballot-security process but uses temporary fictional voter accounts.
+
+![Secure Electronic Voting System Workflow](secure-evoting-workflow.png)
+
+> **Security controls demonstrated:** Verified authentication, electoral-area eligibility, duplicate-vote prevention, encrypted ballot storage, role-based access control, tamper-evident hashing, audit logging and controlled results publication.
 ---
 
 ## 2. Project Objectives
